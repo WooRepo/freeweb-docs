@@ -2,7 +2,7 @@
   "name": "freesearcher-docs",
   "version": "0.0.0",
   "private": true,
-  "homepage": "https://freeweb.github.io/freeweb-docs",  // Update this line
+  "homepage": "https://woorepo.github.io/freeweb-docs",  // Update this line
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
